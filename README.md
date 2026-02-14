@@ -12,7 +12,7 @@ The model is trained using historical financial data and deployed using a \*\*Fl
 
 
 
-\## 📌 Problem Statement
+\##  Problem Statement
 
 EPS is a key financial metric for evaluating a company’s profitability.  
 
